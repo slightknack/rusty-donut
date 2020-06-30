@@ -1,6 +1,6 @@
 # rusty-donut
 > "Sonny, don't cut your teeth on the metal. 'Dem donuts are rusty."  
-> — Old man Perkins, *The way Time Went*
+> — Old man Perkins, *The Way Time Went*
 
 I came across [`donut.c`](https://www.a1k0n.net/2011/07/20/donut-math.html) this morning, so I decided to reimplement it in Rust... with a few creative liberties. If you'd like to run it, clone this repo and:
 
