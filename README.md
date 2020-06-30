@@ -1,5 +1,5 @@
 # rusty-donut
-> "Sonny, careful you cut your teeth on the metal. 'Dem donuts are rusty'"
+> "Sonny, don't cut your teeth on the metal. 'Dem donuts are rusty."
 > — Old man Perkins, *The way Time Went*
 
 ```
